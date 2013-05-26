@@ -1,11 +1,7 @@
-webbox
-======
-
 Wiring together Spring MVC, Hibernate, SQLite, Jetty embedded.
+==============================================================
 
 Not an actual useful app, just an example.
-
-
 
 The project is based on this tutorials/projects:
 
